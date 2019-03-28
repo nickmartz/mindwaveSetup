@@ -1,7 +1,7 @@
-# mindwaveSetup
+# mindwaveSetup (Python 2)
 
-make sure pyserial is installed (pip install pyserial)
+This project is aimed at helping patients with motor restoration by controlling prosthetic grip via a Neurosky BCI. We collaborated with Triton Prosthetics to make this happen.
 
-run on python 2
-
-keep mindwave file in the same folder
+Notes:
+Make sure pyserial is installed (pip install pyserial)
+Mindwave file must be in the same directory
